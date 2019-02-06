@@ -1,0 +1,2 @@
+# mytunes
+This is a practice exercise by Brad Traversy. It is a landing page based off of Apple itunes. It is a simple landing page that includes font awesome to complete a website that looks more clean and professional. All assets provided by Brad Traversy.
